@@ -1,0 +1,30 @@
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe.config
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.pdb
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csprojResolveAssemblyReference.cache
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\TrackerForm.Form1.resources
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\WinTracker.Properties.Resources.resources
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csproj.GenerateResource.Cache
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.exe
+H:\PROG5060\TrackerForm_new\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.pdb
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe.config
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.exe
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.pdb
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.pdb
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csprojResolveAssemblyReference.cache
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\WinTracker.Properties.Resources.resources
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csproj.GenerateResource.Cache
+H:\PROG5060\TrackerForm_new\Win-Form\TrackerForm\TrackerForm\obj\Debug\TrackerForm.IssueTracker.resources
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe.config
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.exe
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.pdb
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.pdb
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\WinTracker.Properties.Resources.resources
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.csproj.GenerateResource.Cache
+C:\Users\Joe\OneDrive\PROG-5060\TrackerForm\TrackerForm\TrackerForm\obj\Debug\TrackerForm.frmIssueTracker.resources
+C:\Users\Joe\Desktop\TrackerForm (2)\TrackerForm\TrackerForm\TrackerForm\bin\Debug\Win-Tracker.exe.config
+C:\Users\Joe\Desktop\TrackerForm (2)\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.exe
+C:\Users\Joe\Desktop\TrackerForm (2)\TrackerForm\TrackerForm\TrackerForm\obj\Debug\Win-Tracker.pdb
